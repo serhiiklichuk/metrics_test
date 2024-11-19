@@ -1,0 +1,2050 @@
+[
+    {
+        "Blockchain Name": "ETH",
+        "TVL": "60.0B",
+        "Market Cap": "376.3B",
+        "FDV": "376.3B",
+        "Market Cap/TVL": 6.27,
+        "FDV/TVL": 6.27
+    },
+    {
+        "Blockchain Name": "SOL",
+        "TVL": "8.4B",
+        "Market Cap": "115.6B",
+        "FDV": "143.3B",
+        "Market Cap/TVL": 13.72,
+        "FDV/TVL": 17.01
+    },
+    {
+        "Blockchain Name": "TRON",
+        "TVL": "7.8B",
+        "Market Cap": "17.5B",
+        "FDV": "17.5B",
+        "Market Cap/TVL": 2.23,
+        "FDV/TVL": 2.23
+    },
+    {
+        "Blockchain Name": "BNB",
+        "TVL": "5.2B",
+        "Market Cap": "90.1B",
+        "FDV": "90.1B",
+        "Market Cap/TVL": 17.2,
+        "FDV/TVL": 17.2
+    },
+    {
+        "Blockchain Name": "BTC",
+        "TVL": "4.2B",
+        "Market Cap": "1846.8B",
+        "FDV": "1960.2B",
+        "Market Cap/TVL": 442.04,
+        "FDV/TVL": 469.2
+    },
+    {
+        "Blockchain Name": "ARB",
+        "TVL": "2.9B",
+        "Market Cap": "2.8B",
+        "FDV": "6.9B",
+        "Market Cap/TVL": 0.98,
+        "FDV/TVL": 2.39
+    },
+    {
+        "Blockchain Name": "SUI",
+        "TVL": "1.6B",
+        "Market Cap": "10.9B",
+        "FDV": "38.1B",
+        "Market Cap/TVL": 6.71,
+        "FDV/TVL": 23.57
+    },
+    {
+        "Blockchain Name": "AVAX",
+        "TVL": "1.3B",
+        "Market Cap": "14.2B",
+        "FDV": "15.5B",
+        "Market Cap/TVL": 10.85,
+        "FDV/TVL": 11.86
+    },
+    {
+        "Blockchain Name": "MATIC",
+        "TVL": "1.0B",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "APT",
+        "TVL": "940.1M",
+        "Market Cap": "6.3B",
+        "FDV": "13.4B",
+        "Market Cap/TVL": 6.73,
+        "FDV/TVL": 14.24
+    },
+    {
+        "Blockchain Name": "CORE",
+        "TVL": "886.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "OP",
+        "TVL": "742.0M",
+        "Market Cap": "2.2B",
+        "FDV": "7.5B",
+        "Market Cap/TVL": 2.95,
+        "FDV/TVL": 10.08
+    },
+    {
+        "Blockchain Name": "MNT",
+        "TVL": "550.9M",
+        "Market Cap": "2.5B",
+        "FDV": "4.7B",
+        "Market Cap/TVL": 4.57,
+        "FDV/TVL": 8.45
+    },
+    {
+        "Blockchain Name": "CRO",
+        "TVL": "538.7M",
+        "Market Cap": "4.7B",
+        "FDV": "5.1B",
+        "Market Cap/TVL": 8.64,
+        "FDV/TVL": 9.55
+    },
+    {
+        "Blockchain Name": "PLS",
+        "TVL": "492.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ADA",
+        "TVL": "450.9M",
+        "Market Cap": "27.1B",
+        "FDV": "34.1B",
+        "Market Cap/TVL": 60.15,
+        "FDV/TVL": 75.66
+    },
+    {
+        "Blockchain Name": "RUNE",
+        "TVL": "389.3M",
+        "Market Cap": "1.8B",
+        "FDV": "2.2B",
+        "Market Cap/TVL": 4.63,
+        "FDV/TVL": 5.67
+    },
+    {
+        "Blockchain Name": "dYdX",
+        "TVL": "309.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TON",
+        "TVL": "307.8M",
+        "Market Cap": "14.0B",
+        "FDV": "28.1B",
+        "Market Cap/TVL": 45.39,
+        "FDV/TVL": 91.2
+    },
+    {
+        "Blockchain Name": "GNO",
+        "TVL": "302.8M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "STRK",
+        "TVL": "281.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NEAR",
+        "TVL": "271.3M",
+        "Market Cap": "7.1B",
+        "FDV": "7.1B",
+        "Market Cap/TVL": 26.2,
+        "FDV/TVL": 26.27
+    },
+    {
+        "Blockchain Name": "RBTC",
+        "TVL": "222.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SEI",
+        "TVL": "200.8M",
+        "Market Cap": "2.1B",
+        "FDV": "5.1B",
+        "Market Cap/TVL": 10.69,
+        "FDV/TVL": 25.16
+    },
+    {
+        "Blockchain Name": "ZRC",
+        "TVL": "175.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KAVA",
+        "TVL": "172.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MODE",
+        "TVL": "165.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EOS",
+        "TVL": "154.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RON",
+        "TVL": "137.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XIN",
+        "TVL": "135.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CELO",
+        "TVL": "128.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "OSMO",
+        "TVL": "122.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EGLD",
+        "TVL": "118.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ALGO",
+        "TVL": "115.0M",
+        "Market Cap": "1.9B",
+        "FDV": "1.9B",
+        "Market Cap/TVL": 16.65,
+        "FDV/TVL": 16.65
+    },
+    {
+        "Blockchain Name": "HBAR",
+        "TVL": "107.1M",
+        "Market Cap": "5.2B",
+        "FDV": "6.9B",
+        "Market Cap/TVL": 48.32,
+        "FDV/TVL": 64.1
+    },
+    {
+        "Blockchain Name": "STX",
+        "TVL": "105.4M",
+        "Market Cap": "2.9B",
+        "FDV": "2.9B",
+        "Market Cap/TVL": 27.57,
+        "FDV/TVL": 27.57
+    },
+    {
+        "Blockchain Name": "FTM",
+        "TVL": "102.5M",
+        "Market Cap": "2.0B",
+        "FDV": "2.2B",
+        "Market Cap/TVL": 19.36,
+        "FDV/TVL": 21.93
+    },
+    {
+        "Blockchain Name": "ZK",
+        "TVL": "89.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FIL",
+        "TVL": "68.7M",
+        "Market Cap": "2.7B",
+        "FDV": "8.7B",
+        "Market Cap/TVL": 38.98,
+        "FDV/TVL": 127.31
+    },
+    {
+        "Blockchain Name": "KLAY",
+        "TVL": "67.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BB",
+        "TVL": "58.8M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HDX",
+        "TVL": "56.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ICP",
+        "TVL": "53.1M",
+        "Market Cap": "4.4B",
+        "FDV": "4.9B",
+        "Market Cap/TVL": 82.89,
+        "FDV/TVL": 91.81
+    },
+    {
+        "Blockchain Name": "METIS",
+        "TVL": "51.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "INJ",
+        "TVL": "48.6M",
+        "Market Cap": "2.4B",
+        "FDV": "2.5B",
+        "Market Cap/TVL": 50.36,
+        "FDV/TVL": 51.53
+    },
+    {
+        "Blockchain Name": "XTZ",
+        "TVL": "47.3M",
+        "Market Cap": "1.1B",
+        "FDV": "1.1B",
+        "Market Cap/TVL": 22.89,
+        "FDV/TVL": 23.35
+    },
+    {
+        "Blockchain Name": "ZKL",
+        "TVL": "44.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MANTA",
+        "TVL": "42.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FXTL",
+        "TVL": "40.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TLOS",
+        "TVL": "38.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XLM",
+        "TVL": "31.0M",
+        "Market Cap": "6.9B",
+        "FDV": "11.5B",
+        "Market Cap/TVL": 222.19,
+        "FDV/TVL": 370.91
+    },
+    {
+        "Blockchain Name": "FLOW",
+        "TVL": "28.7M",
+        "Market Cap": "1.1B",
+        "FDV": "1.1B",
+        "Market Cap/TVL": 37.77,
+        "FDV/TVL": 37.77
+    },
+    {
+        "Blockchain Name": "KUJI",
+        "TVL": "26.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BFC",
+        "TVL": "26.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GLMR",
+        "TVL": "24.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CACAO",
+        "TVL": "22.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "IOTX",
+        "TVL": "22.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ASTR",
+        "TVL": "21.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FLR",
+        "TVL": "20.8M",
+        "Market Cap": "1.1B",
+        "FDV": "2.1B",
+        "Market Cap/TVL": 51.96,
+        "FDV/TVL": 101.58
+    },
+    {
+        "Blockchain Name": "XRD",
+        "TVL": "20.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FLIP",
+        "TVL": "20.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MAP",
+        "TVL": "18.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "AURORA",
+        "TVL": "18.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FON",
+        "TVL": "17.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "WEMIX",
+        "TVL": "17.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NEO",
+        "TVL": "16.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "APE",
+        "TVL": "15.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XRP",
+        "TVL": "14.8M",
+        "Market Cap": "63.2B",
+        "FDV": "111.0B",
+        "Market Cap/TVL": 4264.17,
+        "FDV/TVL": 7489.07
+    },
+    {
+        "Blockchain Name": "ICX",
+        "TVL": "14.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "IMX",
+        "TVL": "14.2M",
+        "Market Cap": "2.3B",
+        "FDV": "2.8B",
+        "Market Cap/TVL": 165.11,
+        "FDV/TVL": 197.71
+    },
+    {
+        "Blockchain Name": "CFX",
+        "TVL": "14.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "WAVES",
+        "TVL": "14.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BCH",
+        "TVL": "13.5M",
+        "Market Cap": "8.9B",
+        "FDV": "9.5B",
+        "Market Cap/TVL": 662.02,
+        "FDV/TVL": 702.48
+    },
+    {
+        "Blockchain Name": "DFI",
+        "TVL": "13.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XDC",
+        "TVL": "12.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SCRT",
+        "TVL": "12.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CHZ",
+        "TVL": "11.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ALPH",
+        "TVL": "11.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BNC",
+        "TVL": "9.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ZETA",
+        "TVL": "9.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RWA",
+        "TVL": "9.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DOGE",
+        "TVL": "8.9M",
+        "Market Cap": "59.1B",
+        "FDV": "59.1B",
+        "Market Cap/TVL": 6648.85,
+        "FDV/TVL": 6648.99
+    },
+    {
+        "Blockchain Name": "ONT",
+        "TVL": "8.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CANTO",
+        "TVL": "8.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DG",
+        "TVL": "8.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ONUS",
+        "TVL": "7.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "VENOM",
+        "TVL": "6.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ALOT",
+        "TVL": "5.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ERG",
+        "TVL": "5.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MOVR",
+        "TVL": "5.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ORAI",
+        "TVL": "5.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DYM",
+        "TVL": "5.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LUNA",
+        "TVL": "5.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "VITE",
+        "TVL": "4.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LTC",
+        "TVL": "4.7M",
+        "Market Cap": "6.6B",
+        "FDV": "7.3B",
+        "Market Cap/TVL": 1390.38,
+        "FDV/TVL": 1552.78
+    },
+    {
+        "Blockchain Name": "WAN",
+        "TVL": "4.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MC",
+        "TVL": "4.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SWTH",
+        "TVL": "4.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NULS",
+        "TVL": "4.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XPR",
+        "TVL": "4.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "VS",
+        "TVL": "4.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "JEWEL",
+        "TVL": "3.9M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "-",
+        "TVL": "3.8M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FTN",
+        "TVL": "3.7M",
+        "Market Cap": "1.0B",
+        "FDV": "2.7B",
+        "Market Cap/TVL": 276.31,
+        "FDV/TVL": 729.56
+    },
+    {
+        "Blockchain Name": "G",
+        "TVL": "3.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FX",
+        "TVL": "3.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ACA",
+        "TVL": "3.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BCH",
+        "TVL": "2.9M",
+        "Market Cap": "8.9B",
+        "FDV": "9.5B",
+        "Market Cap/TVL": 3037.07,
+        "FDV/TVL": 3222.68
+    },
+    {
+        "Blockchain Name": "ZEN",
+        "TVL": "2.8M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ELF",
+        "TVL": "2.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ONE",
+        "TVL": "2.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "UX",
+        "TVL": "2.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ROSE",
+        "TVL": "2.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ARCH",
+        "TVL": "2.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "INTR",
+        "TVL": "2.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "OAS",
+        "TVL": "2.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "OKT",
+        "TVL": "2.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DEGEN",
+        "TVL": "2.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ZIL",
+        "TVL": "2.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HYDRA",
+        "TVL": "2.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BOBA",
+        "TVL": "2.0M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "THETA",
+        "TVL": "2.0M",
+        "Market Cap": "1.8B",
+        "FDV": "1.8B",
+        "Market Cap/TVL": 880.49,
+        "FDV/TVL": 880.49
+    },
+    {
+        "Blockchain Name": "VLX",
+        "TVL": "1.8M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "WAXP",
+        "TVL": "1.8M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "WLD",
+        "TVL": "1.8M",
+        "Market Cap": "1.5B",
+        "FDV": "23.3B",
+        "Market Cap/TVL": 852.65,
+        "FDV/TVL": 12813.58
+    },
+    {
+        "Blockchain Name": "AMB",
+        "TVL": "1.7M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ISLM",
+        "TVL": "1.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MTRG",
+        "TVL": "1.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XPRT",
+        "TVL": "1.6M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KCS",
+        "TVL": "1.5M",
+        "Market Cap": "1.3B",
+        "FDV": "1.6B",
+        "Market Cap/TVL": 869.59,
+        "FDV/TVL": 1032.29
+    },
+    {
+        "Blockchain Name": "SGB",
+        "TVL": "1.5M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LUNC",
+        "TVL": "1.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XAI",
+        "TVL": "1.4M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XPLA",
+        "TVL": "1.3M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ELA",
+        "TVL": "1.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NEON",
+        "TVL": "1.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "IDEX",
+        "TVL": "1.2M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FUSE",
+        "TVL": "1.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "JUNO",
+        "TVL": "1.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EVER",
+        "TVL": "1.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EQ",
+        "TVL": "1.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RPG",
+        "TVL": "1.1M",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ATOM",
+        "TVL": "1.0M",
+        "Market Cap": "2.5B",
+        "FDV": "2.5B",
+        "Market Cap/TVL": 2349.9,
+        "FDV/TVL": 2351.36
+    },
+    {
+        "Blockchain Name": "RENEC",
+        "TVL": "981.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ROSE",
+        "TVL": "945.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KDA",
+        "TVL": "932.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LSK",
+        "TVL": "932.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SMR",
+        "TVL": "837.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LAC",
+        "TVL": "784.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GBYTE",
+        "TVL": "757.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DMT",
+        "TVL": "725.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "VET",
+        "TVL": "694.8K",
+        "Market Cap": "2.7B",
+        "FDV": "2.9B",
+        "Market Cap/TVL": 3934.0,
+        "FDV/TVL": 4176.88
+    },
+    {
+        "Blockchain Name": "HUAHUA",
+        "TVL": "688.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TT",
+        "TVL": "671.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ULX",
+        "TVL": "660.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RSS3",
+        "TVL": "642.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EVMOS",
+        "TVL": "620.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "STC",
+        "TVL": "611.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NRG",
+        "TVL": "584.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ETC",
+        "TVL": "534.4K",
+        "Market Cap": "3.9B",
+        "FDV": "5.6B",
+        "Market Cap/TVL": 7376.29,
+        "FDV/TVL": 10387.94
+    },
+    {
+        "Blockchain Name": "BTT",
+        "TVL": "527.4K",
+        "Market Cap": "1.1B",
+        "FDV": "1.1B",
+        "Market Cap/TVL": 2055.87,
+        "FDV/TVL": 2102.06
+    },
+    {
+        "Blockchain Name": "BOOT",
+        "TVL": "508.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CET",
+        "TVL": "481.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KRO",
+        "TVL": "471.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NLS",
+        "TVL": "423.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HT",
+        "TVL": "369.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "WHALE",
+        "TVL": "322.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KAR",
+        "TVL": "307.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KINT",
+        "TVL": "300.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TOMB",
+        "TVL": "300.0K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CRAB",
+        "TVL": "291.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KAI",
+        "TVL": "290.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HELA",
+        "TVL": "287.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GSYS",
+        "TVL": "268.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DASH",
+        "TVL": "247.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "XOR",
+        "TVL": "238.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "QGOV",
+        "TVL": "235.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "VIC",
+        "TVL": "235.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EWT",
+        "TVL": "226.2K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SPEX",
+        "TVL": "206.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MEER",
+        "TVL": "191.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BROCK",
+        "TVL": "171.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ACE",
+        "TVL": "142.0K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "AURA",
+        "TVL": "141.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ETHW",
+        "TVL": "125.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ALV",
+        "TVL": "114.2K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LOOP",
+        "TVL": "96.2K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KUB",
+        "TVL": "91.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "STARS",
+        "TVL": "91.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NII",
+        "TVL": "90.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "PDEX",
+        "TVL": "88.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CMDX",
+        "TVL": "76.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LIBRE",
+        "TVL": "75.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SDN",
+        "TVL": "74.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SX",
+        "TVL": "72.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "AREA",
+        "TVL": "69.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "NEW",
+        "TVL": "67.1K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CRE",
+        "TVL": "55.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "-",
+        "TVL": "55.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ETN",
+        "TVL": "55.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DOT",
+        "TVL": "51.6K",
+        "Market Cap": "8.4B",
+        "FDV": "8.9B",
+        "Market Cap/TVL": 162315.09,
+        "FDV/TVL": 171441.99
+    },
+    {
+        "Blockchain Name": "FRA",
+        "TVL": "49.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GRV",
+        "TVL": "40.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CCD",
+        "TVL": "33.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SYS",
+        "TVL": "27.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "JBC",
+        "TVL": "26.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "REI",
+        "TVL": "24.7K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MTV",
+        "TVL": "23.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "PLQ",
+        "TVL": "23.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HPB",
+        "TVL": "18.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CUBE",
+        "TVL": "17.2K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LA",
+        "TVL": "16.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SHIDO",
+        "TVL": "16.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CLO",
+        "TVL": "13.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MANTA",
+        "TVL": "13.6K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ETHF",
+        "TVL": "13.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SPACE",
+        "TVL": "13.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EROWAN",
+        "TVL": "10.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GO",
+        "TVL": "10.5K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RING",
+        "TVL": "9.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ONG",
+        "TVL": "7.0K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "JOLT",
+        "TVL": "5.4K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BRISE",
+        "TVL": "5.2K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ZENIQ",
+        "TVL": "5.0K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BTN",
+        "TVL": "3.8K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TENET",
+        "TVL": "3.3K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "AE",
+        "TVL": "1.9K",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RWA",
+        "TVL": "17",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "PG",
+        "TVL": "3",
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BNB",
+        "TVL": null,
+        "Market Cap": "90.1B",
+        "FDV": "90.1B",
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HOO",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GENS",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TAU",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CLV",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "FSN",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "EMPIRE",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "POLIS",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ZYX",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "UBQ",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "ECH",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "GETH",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SNT",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "OX",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DXT",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "OMAX",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "HKO",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "PARA",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "KEK",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "MUU",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "DEL",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "TLC",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BNI",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "BONE",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "CMP",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "LYX",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "RBNT",
+        "TVL": null,
+        "Market Cap": null,
+        "FDV": null,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    }
+]
