@@ -1,0 +1,362 @@
+[
+    {
+        "Blockchain Name": "MNT",
+        "TVL": 550892331.4483626,
+        "Market Cap": 2508854404,
+        "FDV": 4634420530,
+        "Market Cap/TVL": 4.554164690228884,
+        "FDV/TVL": 8.412570416102087
+    },
+    {
+        "Blockchain Name": "BNB",
+        "TVL": 5237773134.744556,
+        "Market Cap": 89897370253,
+        "FDV": 89897370253,
+        "Market Cap/TVL": 17.163280642429783,
+        "FDV/TVL": 17.163280642429783
+    },
+    {
+        "Blockchain Name": "OP",
+        "TVL": 741981931.2519907,
+        "Market Cap": 2186942136,
+        "FDV": 7483918251,
+        "Market Cap/TVL": 2.947433143432268,
+        "FDV/TVL": 10.086388813231524
+    },
+    {
+        "Blockchain Name": "AVAX",
+        "TVL": 1309775362.8183384,
+        "Market Cap": 14213630711,
+        "FDV": 15545768250,
+        "Market Cap/TVL": 10.851960660197106,
+        "FDV/TVL": 11.869033951401441
+    },
+    {
+        "Blockchain Name": "ARB",
+        "TVL": 2899007656.9998803,
+        "Market Cap": 2848517732,
+        "FDV": 6952080997,
+        "Market Cap/TVL": 0.9825837214061962,
+        "FDV/TVL": 2.3980899050796425
+    },
+    {
+        "Blockchain Name": "ETH",
+        "TVL": 60008108140.965904,
+        "Market Cap": 376109675686,
+        "FDV": 376109675686,
+        "Market Cap/TVL": 6.267647611927298,
+        "FDV/TVL": 6.267647611927298
+    },
+    {
+        "Blockchain Name": "FTM",
+        "TVL": 102543291.35504329,
+        "Market Cap": 1992886604,
+        "FDV": 2256861303,
+        "Market Cap/TVL": 19.43458784738906,
+        "FDV/TVL": 22.008863507081127
+    },
+    {
+        "Blockchain Name": "MATIC",
+        "TVL": 1010768424.5113634,
+        "Market Cap": 1018860435,
+        "FDV": 4363956749,
+        "Market Cap/TVL": 1.0080058006289112,
+        "FDV/TVL": 4.317464458893906
+    },
+    {
+        "Blockchain Name": "BTT",
+        "TVL": 527389.5688624876,
+        "Market Cap": 1082444695,
+        "FDV": 1106763956,
+        "Market Cap/TVL": 2052.4575359628293,
+        "FDV/TVL": 2098.5700539871304
+    },
+    {
+        "Blockchain Name": "FIL",
+        "TVL": 68694435.57730605,
+        "Market Cap": 2681276069,
+        "FDV": 8756648108,
+        "Market Cap/TVL": 39.03192516928968,
+        "FDV/TVL": 127.4724515080353
+    },
+    {
+        "Blockchain Name": "CRO",
+        "TVL": 538686672.3828611,
+        "Market Cap": 4612274215,
+        "FDV": 5101029558,
+        "Market Cap/TVL": 8.562072261037702,
+        "FDV/TVL": 9.469381403916639
+    },
+    {
+        "Blockchain Name": "BNB",
+        "TVL": 0,
+        "Market Cap": 89897370253,
+        "FDV": 89897370253,
+        "Market Cap/TVL": null,
+        "FDV/TVL": null
+    },
+    {
+        "Blockchain Name": "SOL",
+        "TVL": 8423993437.057487,
+        "Market Cap": 115589852247,
+        "FDV": 143354390742,
+        "Market Cap/TVL": 13.721503122084068,
+        "FDV/TVL": 17.017391076229742
+    },
+    {
+        "Blockchain Name": "DOGE",
+        "TVL": 8894353.256494356,
+        "Market Cap": 59493073948,
+        "FDV": 59494362198,
+        "Market Cap/TVL": 6688.858900961704,
+        "FDV/TVL": 6689.003740048129
+    },
+    {
+        "Blockchain Name": "LTC",
+        "TVL": 4721991.385660192,
+        "Market Cap": 6580590045,
+        "FDV": 7349263810,
+        "Market Cap/TVL": 1393.6048390482088,
+        "FDV/TVL": 1556.3907702835597
+    },
+    {
+        "Blockchain Name": "KCS",
+        "TVL": 1505551.499031587,
+        "Market Cap": 1312433579,
+        "FDV": 1557988745,
+        "Market Cap/TVL": 871.729449204623,
+        "FDV/TVL": 1034.829260906812
+    },
+    {
+        "Blockchain Name": "BTC",
+        "TVL": 4177808099.169765,
+        "Market Cap": 1844347996857,
+        "FDV": 1957648685751,
+        "Market Cap/TVL": 441.46307180157896,
+        "FDV/TVL": 468.58272071903775
+    },
+    {
+        "Blockchain Name": "APT",
+        "TVL": 940050054.6773652,
+        "Market Cap": 6316343086,
+        "FDV": 13359402398,
+        "Market Cap/TVL": 6.719156128518958,
+        "FDV/TVL": 14.211373459879308
+    },
+    {
+        "Blockchain Name": "HBAR",
+        "TVL": 107063758.60510217,
+        "Market Cap": 5192521465,
+        "FDV": 6887906096,
+        "Market Cap/TVL": 48.4993384563705,
+        "FDV/TVL": 64.334618789217
+    },
+    {
+        "Blockchain Name": "FLR",
+        "TVL": 20829475.157423325,
+        "Market Cap": 1081805382,
+        "FDV": 2114849550,
+        "Market Cap/TVL": 51.93627654196847,
+        "FDV/TVL": 101.53158128164829
+    },
+    {
+        "Blockchain Name": "RUNE",
+        "TVL": 389346389.003718,
+        "Market Cap": 1805972153,
+        "FDV": 2212213511,
+        "Market Cap/TVL": 4.6384715615861385,
+        "FDV/TVL": 5.681864718614032
+    },
+    {
+        "Blockchain Name": "ATOM",
+        "TVL": 1049460.1257855922,
+        "Market Cap": 2457819946,
+        "FDV": 2459340261,
+        "Market Cap/TVL": 2341.985069856899,
+        "FDV/TVL": 2343.4337337581233
+    },
+    {
+        "Blockchain Name": "BCH",
+        "TVL": 13478819.137758756,
+        "Market Cap": 8899373560,
+        "FDV": 9443272369,
+        "Market Cap/TVL": 660.2487554024542,
+        "FDV/TVL": 700.6008666253398
+    },
+    {
+        "Blockchain Name": "TRON",
+        "TVL": 7824983927.49789,
+        "Market Cap": 17462539934,
+        "FDV": 17462563165,
+        "Market Cap/TVL": 2.23163908013084,
+        "FDV/TVL": 2.2316420489548294
+    },
+    {
+        "Blockchain Name": "INJ",
+        "TVL": 48587451.4788645,
+        "Market Cap": 2450645250,
+        "FDV": 2507638344,
+        "Market Cap/TVL": 50.43782242964583,
+        "FDV/TVL": 51.61082270575193
+    },
+    {
+        "Blockchain Name": "SUI",
+        "TVL": 1618830294.0083876,
+        "Market Cap": 10814238062,
+        "FDV": 38001354365,
+        "Market Cap/TVL": 6.680279027409879,
+        "FDV/TVL": 23.47457575117698
+    },
+    {
+        "Blockchain Name": "XTZ",
+        "TVL": 47291348.10797274,
+        "Market Cap": 1083497943,
+        "FDV": 1105412276,
+        "Market Cap/TVL": 22.911124050137524,
+        "FDV/TVL": 23.374513948644257
+    },
+    {
+        "Blockchain Name": "NEAR",
+        "TVL": 271320176.7779693,
+        "Market Cap": 7130417681,
+        "FDV": 7149087273,
+        "Market Cap/TVL": 26.28045494322034,
+        "FDV/TVL": 26.349265129848217
+    },
+    {
+        "Blockchain Name": "ALGO",
+        "TVL": 114954769.0643874,
+        "Market Cap": 1936667998,
+        "FDV": 1936668007,
+        "Market Cap/TVL": 16.847217507916106,
+        "FDV/TVL": 16.84721758620777
+    },
+    {
+        "Blockchain Name": "ADA",
+        "TVL": 450947764.5402508,
+        "Market Cap": 26761687585,
+        "FDV": 33662900620,
+        "Market Cap/TVL": 59.34542687507059,
+        "FDV/TVL": 74.64922385039412
+    },
+    {
+        "Blockchain Name": "BCH",
+        "TVL": 2938100.478890108,
+        "Market Cap": 8899373560,
+        "FDV": 9443272369,
+        "Market Cap/TVL": 3028.9548039425163,
+        "FDV/TVL": 3214.074003543703
+    },
+    {
+        "Blockchain Name": "XLM",
+        "TVL": 31015798.4356448,
+        "Market Cap": 6891301220,
+        "FDV": 11504042151,
+        "Market Cap/TVL": 222.18680696867682,
+        "FDV/TVL": 370.9091086231402
+    },
+    {
+        "Blockchain Name": "VET",
+        "TVL": 694798.3054281769,
+        "Market Cap": 2723475064,
+        "FDV": 2891621861,
+        "Market Cap/TVL": 3919.806716168701,
+        "FDV/TVL": 4161.814786260895
+    },
+    {
+        "Blockchain Name": "ETC",
+        "TVL": 534438.1603846899,
+        "Market Cap": 3944158435,
+        "FDV": 5554507194,
+        "Market Cap/TVL": 7380.009002652402,
+        "FDV/TVL": 10393.171007852156
+    },
+    {
+        "Blockchain Name": "STX",
+        "TVL": 105402141.13567507,
+        "Market Cap": 2905990478,
+        "FDV": 2905996281,
+        "Market Cap/TVL": 27.57050707593662,
+        "FDV/TVL": 27.570562131744193
+    },
+    {
+        "Blockchain Name": "THETA",
+        "TVL": 1994118.0702534944,
+        "Market Cap": 1753723111,
+        "FDV": 1753723111,
+        "Market Cap/TVL": 879.447981120328,
+        "FDV/TVL": 879.447981120328
+    },
+    {
+        "Blockchain Name": "SEI",
+        "TVL": 200816449.26898435,
+        "Market Cap": 2141001774,
+        "FDV": 5038145169,
+        "Market Cap/TVL": 10.661486057510295,
+        "FDV/TVL": 25.08830918652305
+    },
+    {
+        "Blockchain Name": "FTN",
+        "TVL": 3747938.2800589083,
+        "Market Cap": 1031376590,
+        "FDV": 2723168592,
+        "Market Cap/TVL": 275.1850518690477,
+        "FDV/TVL": 726.5777578272176
+    },
+    {
+        "Blockchain Name": "ICP",
+        "TVL": 53147353.9693518,
+        "Market Cap": 4409065291,
+        "FDV": 4883370064,
+        "Market Cap/TVL": 82.95926253530048,
+        "FDV/TVL": 91.88359719311835
+    },
+    {
+        "Blockchain Name": "FLOW",
+        "TVL": 28731315.292081967,
+        "Market Cap": 1083897858,
+        "FDV": 1083897858,
+        "Market Cap/TVL": 37.72531285049488,
+        "FDV/TVL": 37.72531285049488
+    },
+    {
+        "Blockchain Name": "WLD",
+        "TVL": 1816018.4383257488,
+        "Market Cap": 1549365542,
+        "FDV": 23285002927,
+        "Market Cap/TVL": 853.1661955086836,
+        "FDV/TVL": 12822.007990440485
+    },
+    {
+        "Blockchain Name": "IMX",
+        "TVL": 14180821.860862168,
+        "Market Cap": 2350167783,
+        "FDV": 2814153174,
+        "Market Cap/TVL": 165.72860205558737,
+        "FDV/TVL": 198.4478192880215
+    },
+    {
+        "Blockchain Name": "TON",
+        "TVL": 307777298.3612773,
+        "Market Cap": 13993648406,
+        "FDV": 28114178694,
+        "Market Cap/TVL": 45.46679849523495,
+        "FDV/TVL": 91.3458492347893
+    },
+    {
+        "Blockchain Name": "XRP",
+        "TVL": 14826081.851609422,
+        "Market Cap": 62961675805,
+        "FDV": 110578123348,
+        "Market Cap/TVL": 4246.683408008117,
+        "FDV/TVL": 7458.351063669352
+    },
+    {
+        "Blockchain Name": "DOT",
+        "TVL": 51646.67335389607,
+        "Market Cap": 8399908216,
+        "FDV": 8872230893,
+        "Market Cap/TVL": 162641.8057643656,
+        "FDV/TVL": 171787.07391675026
+    }
+]
